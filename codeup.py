@@ -1,3 +1,2 @@
-num = int(input())
-
-print(num<<1)
+a, b = map(int, input().split())
+print(a<<b)
